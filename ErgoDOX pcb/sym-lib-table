@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name nrf52_bluefruit_le)(type Legacy)(uri "/home/raphael/projects/ergodox/pcb_git/ErgoDOX pcb/nrf52_bluefruit_le.lib")(options "")(descr ""))
+  (lib (name component)(type Legacy)(uri ${KIPRJMOD}/component.lib)(options "")(descr ""))
+  (lib (name ErgoDOX-cache)(type Legacy)(uri ${KIPRJMOD}/ErgoDOX-cache.lib)(options "")(descr ""))
+)
